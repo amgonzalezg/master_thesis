@@ -3,7 +3,11 @@ This project delves into the genomic analysis of Minorisa minuta, a tiny bacteri
 
 ## Structure
 
-All the code is available in Wiki, where we found two pages: [Phylogeny-18S](https://github.com/amgonzalezg/master_thesis/wiki/Phylogeny%E2%80%9018S) and [Minorisa‐minuta‐SAGs](https://github.com/amgonzalezg/master_thesis/wiki/Minorisa%E2%80%90minuta%E2%80%90SAGs). All the files from Phylogeny 18S pipeline can be found at [phylogeny18S](https://github.com/amgonzalezg/master_thesis/tree/main/phylogeny18S) and scripts for SAGs pipeline can be found at [scripts](https://github.com/amgonzalezg/master_thesis/tree/main/scripts)
+All the code is available in Wiki, where we found two pages: 
+* [Phylogeny-18S](https://github.com/amgonzalezg/master_thesis/wiki/Phylogeny%E2%80%9018S) *
+* [Minorisa‐minuta‐SAGs](https://github.com/amgonzalezg/master_thesis/wiki/Minorisa%E2%80%90minuta%E2%80%90SAGs).
+
+All the files from Phylogeny 18S pipeline can be found at [phylogeny18S](https://github.com/amgonzalezg/master_thesis/tree/main/phylogeny18S) and scripts for SAGs pipeline can be found at [scripts](https://github.com/amgonzalezg/master_thesis/tree/main/scripts)
 
 ## Installation
 
